@@ -1,0 +1,21 @@
+Voto: verde
+Voto: verde
+Voto: verde
+Voto: verde
+Voto: verde
+Voto: verde
+Voto: verde
+Voto: verde
+Voto: verde
+Voto: verde
+Voto: verde
+O ganhador da votação é: Verde
+Voto: deadpool
+O ganhador da votação é o Deadpool
+Voto: spiderman
+Voto: spiderman
+Voto: deadpool
+Voto: spiderman
+Voto: deadpool
+Voto: deadpool
+O ganhador da votação é o Deadpool
